@@ -1,8 +1,14 @@
-# tic-tac-toe
-A Tic Tac Toe game built using HTML, CSS and JavaScript
 # Tic Tac Toe 🎮
 
-A simple Tic Tac Toe game built using HTML, CSS and JavaScript.
+A simple and interactive Tic Tac Toe game built using HTML, CSS and JavaScript.
+
+## 🚀 Features
+
+- 👥 2 Player Game
+- 🏆 Win Detection
+- 🤝 Draw Detection
+- 🔄 Reset Game Button
+- 📱 Responsive Design
 
 ## 🛠️ Technologies Used
 
@@ -10,13 +16,18 @@ A simple Tic Tac Toe game built using HTML, CSS and JavaScript.
 - CSS
 - JavaScript
 
-## ✨ Features
+## 🎮 How to Play
 
-- Two-player game
-- Win detection
-- Draw detection
-- Reset game button
+1. Player X starts the game.
+2. Players take turns placing X and O.
+3. Get three symbols in a row to win.
+4. If all boxes are filled without a winner, the game is a draw.
+5. Click the Reset button to play again.
 
-## 🚀 How to Play
+## 📸 Project Screenshot
 
-Open `index.html` in your browser and start playing.
+Coming soon...
+
+## 🌐 Live Demo
+
+Coming soon...
